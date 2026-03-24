@@ -85,13 +85,6 @@ npm install --legacy-peer-deps
 npx expo start -c
 ```
 
-### Compilación Para Tiendas (APK/AAB/IPA)
-Este repositorio ya ha sido escudado y configurado para EAS (Expo Application Services).
-```bash
-eas build --profile preview --platform android
-eas build --profile production --platform ios
-```
-
 ---
 
 ## 💖 Apoya el Proyecto (Contribute)
