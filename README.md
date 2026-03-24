@@ -18,7 +18,8 @@
 
 | Dashboard Analítico (Salud y Fallos) | Canvas Interactivo SVG (Drill-Down) |
 | :---: | :---: |
-| <img width="1170" height="2532" alt="IMG_4922" src="https://github.com/user-attachments/assets/c77ecba1-fc0d-43c4-b8b6-5dab6b1e48ce" /> | `[Insertar Captura Canvas SVG]` |
+| <img width="1170" height="2532" alt="IMG_4922" src="https://github.com/user-attachments/assets/c77ecba1-fc0d-43c4-b8b6-5dab6b1e48ce" /> | <img width="1170" height="2532" alt="IMG_4818" src="https://github.com/user-attachments/assets/564ae922-2b26-4ab6-b417-028d7e924076" />
+ |
 | **Monitoreo en Tiempo Real a 60fps** | **Inspectores de Nodo y Zoom Vectorial** |
 
 ---
