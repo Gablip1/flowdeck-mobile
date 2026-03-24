@@ -87,7 +87,7 @@ npx expo start -c
 
 ---
 
-## 💖 Apoya el Proyecto (Contribute)
+## 💖 Apoya el Proyecto
 Si esta herramienta te ayuda a gestionar tus arquitecturas de n8n, a salvar caídas de servidores en mitad de la noche, o te ha ahorrado horas de depuración, puedes demostrar tu apoyo invitándome a un café:
 
 [![PayPal](https://img.shields.io/badge/Donar_con-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/GabrielMartinAsensio)
